@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @devendar7987
-- 👀 I’m interested in learning  Technical Skills.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
